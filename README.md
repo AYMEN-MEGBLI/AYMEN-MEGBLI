@@ -28,7 +28,7 @@
 
       <div class="hero">
         <div class="social-links">
-          <a href="https://www.facebook.com/aymen.meguebli"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.facebook.com/aymen.meguebli"><i class="fab fa-facebook-f">FB</i></a>
           <a href="https://www.instagram.com/megbli_aymen/?hl=fr"><i class="fab fa-instagram"></i></a>
           <a href="https://twitter.com/AMeguebli"><i class="fab fa-twitter"></i></a>
           <a href="https://github.com/AYMEN-MEGBLI"><i class="fab fa-github"></i></a>
