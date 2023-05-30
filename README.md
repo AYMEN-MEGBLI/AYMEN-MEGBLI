@@ -24,7 +24,7 @@
     <BR><h1>Social media 📭</h1>
         <div class="social-links">
           <a href="https://www.facebook.com/aymen.meguebli"><i class="fab fa-facebook-f"><img  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></img></a>
-          <a href="https://www.instagram.com/megbli_aymen/?hl=fr"><img  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></img></a>
+          <a href="https://www.instagram.com/megbli_aymen/?hl=fr"><img  height="50" width="50" src="instagram.png"></img></a>
           <a href="https://twitter.com/AMeguebli"><img  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494477.png"></img></i></a>
           <a href="https://github.com/AYMEN-MEGBLI"><i class="fab fa-github"></i></a>
           <a href="https://www.linkedin.com/in/aymen-megbli-70380b231/?originalSubdomain=tn"><img  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></img></i></a>
