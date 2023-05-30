@@ -19,7 +19,7 @@
 <span class="hr"></span>
 <h2> 🖤  video games | 💙 Programming</H2>
     <ul>
-        <LI>🌎 I'm from Tataouine - Tunisia <img height="25" width="25" src="https://camo.githubusercontent.com/7e7654adff865a8de9e1d9edd05b58bc0d51a5d6346b796b155275d9aaca2451/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63652f466c61675f6f665f54756e697369612e737667"/></LI>
+        <LI>🌎 I'm from Tataouine - Tunisia &nbsp; <img height="25" width="25" src="tunisia.png"/></LI>
     </ul>
     <BR><h1>Social media 📭</h1>
         <div class="social-links">
@@ -33,5 +33,6 @@
           <a href="https://github.com/AYMEN-MEGBLI"><i class="fab fa-github"></i></a>
            &nbsp;
         </div>
-        <hr>//hello world! :star2: <3
+        <i><b>
+        <hr>//hello world! :star2: <3</i></b>
 </html>
